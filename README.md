@@ -1,5 +1,10 @@
+<p align="center">
+  <img src="lv_0_20260213223318.png" width="50%">
+</p>  
+  
 ## Hi there 👋
-
+text
+<!-- ![lv_0_20260213223318.png]() -->
 <!--
 **jkefbq/jkefbq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
